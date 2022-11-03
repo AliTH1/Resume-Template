@@ -1,0 +1,408 @@
+*{
+    margin: 0px auto;
+    padding: 0px;
+    float: left;
+}
+
+.main{
+    width: 1000px;
+    height: 1310px;
+    float: left;
+}
+
+ul{
+    color: #413E3E;
+}
+
+a{
+    color: #413E3E
+}
+
+p{
+    color: #413E3E;
+}
+
+.contact-info ul{
+    list-style-type: none;
+    line-height: 25px;
+    margin-top: 10px;
+    font-size: 14px;
+    color: #413E3E;
+}
+
+/* Для одного img - портрет */
+
+img{
+    width: 115px;
+    height: 150px;
+    margin-top: 10px;
+    margin-left: 35px;
+}
+
+.left{
+    width: 190px;
+    height: 1300px;
+    position: relative;
+    left: 10px;
+    float: left;
+}
+
+.div-portret-and-name{
+    width: 190px;
+    height: 250px;
+    float: left;
+}
+
+.name-surname{
+    width: 135px;
+    height: 95px;
+    float: left;
+    margin: 5px 0px 0px 30px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+    color: #413E3E;
+}
+
+.line-1{
+    width: 155px;
+    height: 3px;
+    float: left;
+    margin: 5px 0px 0px 20px;
+    background-color: #413E3E;
+}
+
+.left-content{
+    width: 155px;
+    height: 600px;
+    margin: 20px 0px 0px 20px;
+    float: left;
+}
+
+.contact-info{
+    width: 155px;
+    min-height: 100px;
+    border-bottom: 3px solid #413E3E;
+    float: left;
+}
+
+.profile-info{
+    width: 155px;
+    height: 281px;
+    margin-top: 10px;
+    float: left;
+}
+
+.profile-head-text{
+    width: 155px;
+    height: 30px;
+    margin-top: 15px;
+    border-bottom: 2px solid #413E3E;
+    float: left;
+    font-size: 24px;
+    color: #011638;    
+}
+
+.profile-text-paragraph{
+    width: 155px;
+    height: 525px;
+    float: left;
+    text-align: justify;
+}
+
+
+.middle{
+    width: 400px;
+    height: 1300px;
+    float: left;
+    position: relative;
+    left: 80px;
+}
+
+.middle-content{
+    width: 400px;
+    height: 1220px;
+    float: left;
+    position: absolute;
+    top: 80px;
+}
+
+.experience-head-text{
+    width: 300px;
+    height: 35px;
+    float: left;
+    font-size: 28px;
+    color: #011638;
+    border-bottom: 2px solid #413E3E;
+}
+
+.experience-text{
+    width: 400px;
+    height: 1110px;
+    float: left;
+}
+
+.experience-text ul{
+    color: #413E3E;
+    position: absolute;
+    top: 45px;
+    left: 25px;
+    line-height: 20px;
+}
+
+.experience-text-1{
+    width: 400px;
+    height: 150px;
+    position: absolute;
+    top: 75px;
+    float: left;
+}
+
+.experience-text-1-1{
+    color: black;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.experience-text-2{
+    width: 400px;
+    height: 150px;
+    position: absolute;
+    top: 260px;
+    float: left;
+}
+
+.experience-text-2-1{
+    color: black;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.experience-text-3{
+    width: 400px;
+    height: 150px;
+    position: absolute;
+    top: 455px;
+    float: left;
+}
+
+.experience-text-3-1{
+    color: black;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.experience-text-4{
+    width: 400px;
+    height: 150px;
+    position: absolute;
+    top: 640px;
+    float: left;
+}
+
+.experience-text-4-1{
+    color: black;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.experience-text-5{
+    width: 400px;
+    height: 150px;
+    position: absolute;
+    top: 820px;
+    float: left;
+}
+
+.experience-text-5-1{
+    color: black;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.experience-text-6{
+    width: 400px;
+    height: 150px;
+    position: absolute;
+    top: 1000px;
+    float: left;
+}
+
+.experience-text-6-1{
+    color: black;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.right{
+    width: 310px;
+    height: 1300px;
+    float: left;
+    position: relative;
+    left: 110px;
+}
+
+.right-content{
+    width: 310px;
+    height: 1220px;
+    float: left;
+    position: absolute;
+    top: 80px;
+    left: 25px;
+}
+
+.certificate{
+    width: 300px;
+    height: 455px;
+    float: left;
+}
+
+.certificate-head{
+    width: 300px;
+    height: 40px;
+    float: left;
+}
+
+.certificate-head-text{
+    width: 300px;
+    height: 35px;
+    float: left;
+    font-size: 28px;
+    color: #011638;
+    border-bottom: 2px solid #413E3E;
+}
+
+.certificate ul{
+    list-style-type: none;
+    margin-top: 5px;
+    line-height: 30px;
+}
+
+.certificate-text{
+    width: 300px;
+    height: 415px;
+    float: left;
+    line-height: 30px;
+}
+
+.certificate-text-1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.certificate-text-2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.certificate-text-3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.certificate-text-4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.certificate-text-5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.certificate-text-6{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.certificate-text-7{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.certificate-text-8{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.education{
+    width: 310px;
+    height: 100px;
+    float: left;
+    position: relative;
+    top: 50px;
+}
+
+.education-head{
+    width: 310px;
+    height: 40px;
+    float: left;
+}
+
+.education-head-text{
+    width: 310px;
+    height: 35px;
+    float: left;
+    font-size: 28px;
+    color: #011638;
+    border-bottom: 2px solid #413E3E;
+}
+
+
+.skills{
+    width: 310px;
+    height: 100px;
+    float: left;
+    position: relative;
+    top: 65px;
+}
+
+.skills-head{
+    width: 310px;
+    height: 40px;
+    float: left;
+}
+
+.skills-head-text{
+    width: 310px;
+    height: 35px;
+    float: left;
+    font-size: 28px;
+    color: #011638;
+    border-bottom: 2px solid #413E3E;
+}
+
+.skills-text{
+    width: 105px;
+    height: 300px;
+    float: left;
+    line-height: 25px;
+}
+
+.skills-text ul li{
+    list-style-type: none;
+}
+
+.tools{
+    width: 310px;
+    height: 100px;
+    float: left;
+    position: relative;
+    top: 220px;
+}
+
+.tools-head{
+    width: 310px;
+    height: 40px;
+    float: left;
+}
+
+.tools-head-text{
+    width: 310px;
+    height: 35px;
+    float: left;
+    font-size: 28px;
+    color: #011638;
+    border-bottom: 2px solid #413E3E;
+}
+
+.tools-text{
+    width: 105px;
+    height: 300px;
+    float: left;
+    line-height: 25px;
+}
+
+.tools-text ul li{
+    list-style-type: none;
+}
